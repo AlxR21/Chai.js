@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 "use strict"; // treat all JS code as newer version
 
@@ -29,3 +30,7 @@ let state;
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
 
+=======
+"new script";
+console.log("Heyyy");
+>>>>>>> 6c7750953bdfd3aed8a32dbc192d8fc3879b64c9
