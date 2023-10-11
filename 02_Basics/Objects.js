@@ -89,3 +89,18 @@ console.log(Object.keys(obj1));
 console.log(Object.values(obj1));
 
 
+const bands = {
+    band1 : 'Queen',
+    band2 : 'Starship',
+    band3 : 'Boston'
+}
+
+const {band1 : rockBand} = bands
+console.log(rockBand);
+
+//JSON: JavaScript Object Notation EXAMPLE BELOW
+// {
+//     "singer1":"MJ",
+//     "singer2":"Taylor Swift",
+//     "singer3":"Lionel Ritchie"
+// }
